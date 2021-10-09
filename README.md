@@ -7,6 +7,6 @@ for the configs to work properly install these tools:
 
 ## directories
 - **sway:** `$HOME/.config/sway/config`
-- **waybar:** `$HOME/.config/waybar/config` & `$HOME/.config/waybar/styles.css`
+- **waybar:** `$HOME/.config/waybar/config` & `$HOME/.config/waybar/style.css`
 - **alacritty:** `$HOME/.config/alacritty/alacritty.yml`
 - **kitty:** `$HOME/.config/kitty/kitty.conf`
