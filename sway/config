@@ -1,5 +1,5 @@
 
-set $term alacritty
+set $term kitty
 
 font pango: Noto Sans 14
 
