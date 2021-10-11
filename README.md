@@ -5,6 +5,10 @@ for the configs to work properly install these tools:
 - [light](https://github.com/haikarainen/light)<br>
 (*user must be in video group to use brightness control buttons*)
 
+fonts:
+- [font-awesome](https://archlinux.org/packages/community/any/ttf-font-awesome/)
+- [noto-fonts](https://archlinux.org/packages/extra/any/noto-fonts/)
+
 ## directories
 - **sway:** `$HOME/.config/sway/config`
 - **waybar:** `$HOME/.config/waybar/config` & `$HOME/.config/waybar/style.css`
